@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">TogetherDelivery</string>
+    <string name="email_input">이메일을 넣어주세요.</string>
+    <string name="password_input">암호를 넣어주세요.</string>
+    <string name="password_input2">암호를 다시 넣어주세요.</string>
+    <string name="phone_input">핸드폰 번호를 넣어주세요</string>
+    <string name="login">로그인</string>
+    <string name="auth">회원가입</string>
+    <string name="title">다 함께\n 배 달</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
